@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b2GYkIici0XZwpp4nfecfpP/cLnBDfqp0OyhcVIiOzO1GQSs1LQ+w4j62uWTCCFmg6PnrRK2KJueVUnB1VoFzQ==",
+  "dgSpecHash": "EUqt7yiBx7ol7IlcApNOJwG9GIr1Zf0LH/FyLpf+I4vr+mHDHZHZj8z0FXyW81oVGDCO0/xKGMl/njfTZGwkbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\joeli\\repos\\projetoIBM\\projetoIBM.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.8\\microsoft.entityframeworkcore.inmemory.3.1.8.nupkg.sha512",
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.8\\microsoft.entityframeworkcore.relational.3.1.8.nupkg.sha512",
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.8\\microsoft.entityframeworkcore.sqlserver.3.1.8.nupkg.sha512",
+    "C:\\Users\\joeli\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.8\\microsoft.entityframeworkcore.tools.3.1.8.nupkg.sha512",
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.entityframeworkcore.tools.dotnet\\2.0.3\\microsoft.entityframeworkcore.tools.dotnet.2.0.3.nupkg.sha512",
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
     "C:\\Users\\joeli\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.8\\microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",

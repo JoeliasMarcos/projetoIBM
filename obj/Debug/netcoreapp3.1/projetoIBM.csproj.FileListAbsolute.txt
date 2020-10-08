@@ -10,8 +10,6 @@ C:\Users\joeli\repos\projetoIBM\bin\Debug\netcoreapp3.1\projetoIBM.pdb
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.csprojAssemblyReference.cache
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.AssemblyInfoInputs.cache
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.AssemblyInfo.cs
-C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.csproj.CoreCompileInputs.cache
-C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.RazorTargetAssemblyInfo.cache
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\staticwebassets\projetoIBM.StaticWebAssets.Manifest.cache
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\staticwebassets\projetoIBM.StaticWebAssets.xml
@@ -61,3 +59,5 @@ C:\Users\joeli\repos\projetoIBM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcore
 C:\Users\joeli\repos\projetoIBM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.csproj.CopyComplete
 C:\Users\joeli\repos\projetoIBM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.csproj.CoreCompileInputs.cache
+C:\Users\joeli\repos\projetoIBM\obj\Debug\netcoreapp3.1\projetoIBM.MvcApplicationPartsAssemblyInfo.cache
